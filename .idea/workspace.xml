@@ -37,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/db/TailWeatherOpenHelper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,88 +45,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Province.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/model/Province.java">
+      <file leaf-file-name="HttpUtil.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/util/HttpUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.1627907">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#350#1628#0" expanded="true" />
+                <element signature="e#1627#1628#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="City.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/model/City.java">
+      <file leaf-file-name="Utility.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/util/Utility.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+              <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
               <folding>
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
-                <element signature="e#661#662#0" expanded="true" />
-                <element signature="e#709#710#0" expanded="true" />
-                <element signature="e#753#754#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="County.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/model/County.java">
+      <file leaf-file-name="HttpCallbackListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/util/HttpCallbackListener.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-              <folding>
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#650#651#0" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-              </folding>
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TailWeatherDB.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TailWeatherDB.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/db/TailWeatherDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20930232">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#1367#1377#0" expanded="true" />
                 <element signature="e#2402#2408#0" expanded="true" />
                 <element signature="e#3501#3509#0" expanded="true" />
@@ -1684,6 +1645,9 @@
         <option value="$PROJECT_DIR$/app/src/main/java/model/County.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/db/TailWeather.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/db/TailWeatherDB.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/util/HttpCallbackListener.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/util/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/util/Utility.java" />
       </list>
     </option>
   </component>
@@ -1691,9 +1655,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="750" />
-    <option name="y" value="161" />
-    <option name="width" value="1171" />
+    <option name="x" value="265" />
+    <option name="y" value="73" />
+    <option name="width" value="1384" />
     <option name="height" value="917" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -1755,6 +1719,10 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1768,10 +1736,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1959,7 +1923,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="750" y="161" width="1171" height="917" extended-state="0" />
+    <frame x="265" y="73" width="1384" height="917" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1977,7 +1941,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.06750675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24924472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -2018,7 +1982,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3799622" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24924472" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -2032,83 +1996,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/biac/tailweather/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1614654">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/db/TailWeatherOpenHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/model/Province.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/model/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-          <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/model/County.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.37209302">
           <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
           <folding>
             <element signature="e#208#209#0" expanded="true" />
@@ -2131,14 +2021,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/model/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81395346">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/model/Province.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81395346">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/db/TailWeatherDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20930232">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1367#1377#0" expanded="true" />
             <element signature="e#2402#2408#0" expanded="true" />
             <element signature="e#3501#3509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/db/TailWeatherOpenHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/util/HttpCallbackListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/util/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/util/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1627907">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#350#1628#0" expanded="true" />
+            <element signature="e#1627#1628#0" expanded="true" />
           </folding>
         </state>
       </provider>
